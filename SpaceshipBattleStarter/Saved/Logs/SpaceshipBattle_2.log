@@ -1,0 +1,1245 @@
+﻿Log file open, 12/01/18 23:55:01
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: SpaceshipBattle
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.426443
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.495s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU:        Intel(R) Core(TM) i3-2310M CPU @ 2.10GHz, GPU: Intel(R) HD Graphics 3000
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.12.01-21.55.03:206][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.01-21.55.03:206][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.12.01-21.55.03:279][  0]LogHAL: Display: Platform has ~ 16 GB [17087434752 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.12.01-21.55.03:280][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.12.01-21.55.03:280][  0]LogInit: Going up to parent DeviceProfile []
+[2018.12.01-21.55.03:282][  0]LogInit: Computer: DESKTOP-JJ50MLS
+[2018.12.01-21.55.03:282][  0]LogInit: User: darin
+[2018.12.01-21.55.03:283][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.12.01-21.55.03:283][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2018.12.01-21.55.03:284][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.12.01-21.55.03:284][  0]LogMemory: Platform Memory Stats for Windows
+[2018.12.01-21.55.03:284][  0]LogMemory: Process Physical Memory: 99.63 MB used, 99.63 MB peak
+[2018.12.01-21.55.03:284][  0]LogMemory: Process Virtual Memory: 82.96 MB used, 82.96 MB peak
+[2018.12.01-21.55.03:284][  0]LogMemory: Physical Memory: 5668.80 MB used,  10627.05 MB free, 16295.85 MB total
+[2018.12.01-21.55.03:284][  0]LogMemory: Virtual Memory: 4620.36 MB used,  10627.05 MB free, 134217728.00 MB total
+[2018.12.01-21.55.03:425][  0]LogInit: Using OS detected language (ru-RU).
+[2018.12.01-21.55.03:425][  0]LogInit: Using OS detected locale (ru-RU).
+[2018.12.01-21.55.03:429][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2018.12.01-21.55.03:439][  0]LogStreaming: Display: Took  0.014s to InitEngineTextLocalization.
+[2018.12.01-21.55.03:440][  0]LogInit: Setting process to per monitor DPI aware
+[2018.12.01-21.55.03:556][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.12.01-21.55.03:556][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.12.01-21.55.05:227][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.01-21.55.05:227][  0]LogD3D11RHI: D3D11 adapters:
+[2018.12.01-21.55.05:471][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GT 540M' (Feature Level 11_0)
+[2018.12.01-21.55.05:471][  0]LogD3D11RHI:       963/0/3071 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.12.01-21.55.05:672][  0]LogD3D11RHI:    1. 'NVIDIA GeForce GT 540M' (Feature Level 11_0)
+[2018.12.01-21.55.05:672][  0]LogD3D11RHI:       963/0/3071 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x10de
+[2018.12.01-21.55.05:691][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.12.01-21.55.05:691][  0]LogD3D11RHI:       963/0/3071 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.12.01-21.55.05:691][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.12.01-21.55.05:730][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.12.01-21.55.05:730][  0]LogD3D11RHI:     GPU DeviceId: 0xdf4 (for the marketing name, search the web for "GPU Device Id")
+[2018.12.01-21.55.05:730][  0]LogWindows: EnumDisplayDevices:
+[2018.12.01-21.55.05:731][  0]LogWindows:    0. 'Intel(R) HD Graphics 3000' (P:1 D:1)
+[2018.12.01-21.55.05:732][  0]LogWindows:    1. 'Intel(R) HD Graphics 3000' (P:0 D:0)
+[2018.12.01-21.55.05:733][  0]LogWindows:    2. 'NVIDIA GeForce GT 540M' (P:0 D:0)
+[2018.12.01-21.55.05:734][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2018.12.01-21.55.05:734][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GT 540M
+[2018.12.01-21.55.05:734][  0]LogD3D11RHI:   Driver Version: 391.35 (internal:23.21.13.9135, unified:391.35)
+[2018.12.01-21.55.05:734][  0]LogD3D11RHI:      Driver Date: 3-23-2018
+[2018.12.01-21.55.05:734][  0]LogRHI: Texture pool is 674 MB (70% of 963 MB)
+[2018.12.01-21.55.05:896][  0]LogD3D11RHI: Display: Timestamp queries are currently disabled on this hardware due to instability. Realtime GPU stats will not be available. You can override this behaviour by setting r.NVIDIATimestampWorkaround to 0
+[2018.12.01-21.55.05:896][  0]LogD3D11RHI: Async texture creation enabled
+[2018.12.01-21.55.05:934][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.12.01-21.55.05:939][  0]LogShaderCompilers: Guid format shader working directory is -18 characters bigger than the processId version (E:/UnrealProjects/SpaceshipBattleStarter/SpaceshipBattleStarter/Intermediate/Shaders/WorkingDirectory/10488/).
+[2018.12.01-21.55.05:940][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/darin/AppData/Local/Temp/UnrealShaderWorkingDir/22AAEA7340CF9941C36C43B3A43E4437/'.
+[2018.12.01-21.55.07:143][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.12.01-21.55.07:200][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.12.01-21.55.07:239][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.12.01-21.55.07:281][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.12.01-21.55.07:320][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.12.01-21.55.07:358][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.12.01-21.55.07:398][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.12.01-21.55.07:438][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.12.01-21.55.07:457][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.12.01-21.55.07:675][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.01-21.55.07:675][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.01-21.55.07:675][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.01-21.55.07:675][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.01-21.55.07:675][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.01-21.55.07:675][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.01-21.55.07:675][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.01-21.55.07:675][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.01-21.55.07:675][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.01-21.55.07:676][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.01-21.55.07:676][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.01-21.55.07:676][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.01-21.55.07:676][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.01-21.55.07:676][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.01-21.55.07:676][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.01-21.55.07:676][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.01-21.55.07:676][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.01-21.55.07:676][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.01-21.55.07:683][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.12.01-21.55.07:796][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.01-21.55.07:796][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.01-21.55.07:860][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.01-21.55.07:860][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.01-21.55.07:894][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.12.01-21.55.07:928][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.12.01-21.55.07:960][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.12.01-21.55.07:996][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.12.01-21.55.08:021][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.01-21.55.08:021][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.12.01-21.55.08:259][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.12.01-21.55.08:259][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.12.01-21.55.08:259][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.12.01-21.55.10:738][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.12.01-21.55.10:928][  0]LogDerivedDataCache: Loaded boot cache 0.19s 71MB C:/Users/darin/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.12.01-21.55.10:929][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/darin/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.12.01-21.55.10:929][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/UnrealProjects/SpaceshipBattleStarter/SpaceshipBattleStarter/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.12.01-21.55.10:929][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.12.01-21.55.10:929][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/UnrealProjects/SpaceshipBattleStarter/SpaceshipBattleStarter/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.01-21.55.10:929][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.12.01-21.55.10:959][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.12.01-21.55.10:974][  0]LogDerivedDataCache: Using Local data cache path C:/Users/darin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.12.01-21.55.10:974][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.12.01-21.55.10:974][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.12.01-21.55.11:018][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.12.01-21.55.11:021][  0]LogSlate: Using FreeType 2.6.0
+[2018.12.01-21.55.11:024][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.12.01-21.55.11:252][  0]LogAssetRegistry: FAssetRegistry took 0.0329 seconds to start up
+[2018.12.01-21.55.12:231][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.01-21.55.12:609][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.12.01-21.55.12:625][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.12.01-21.55.12:625][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.12.01-21.55.12:625][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.12.01-21.55.12:625][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.12.01-21.55.12:677][  0]LogNetVersion: SpaceshipBattle 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3508262634)
+[2018.12.01-21.55.13:989][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.185248 seconds
+[2018.12.01-21.55.14:003][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.12.01-21.55.14:003][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.12.01-21.55.14:003][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.12.01-21.55.16:988][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.12.01-21.55.17:006][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.12.01-21.55.17:320][  0]SourceControl: Source control is disabled
+[2018.12.01-21.55.17:320][  0]SourceControl: Source control is disabled
+[2018.12.01-21.55.17:327][  0]SourceControl: Source control is disabled
+[2018.12.01-21.55.17:331][  0]SourceControl: Source control is disabled
+[2018.12.01-21.55.17:723][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.12.01-21.55.17:862][  0]LogOcInput: OculusInput pre-init called
+[2018.12.01-21.55.18:013][  0]LogEngine: Initializing Engine...
+[2018.12.01-21.55.18:015][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.01-21.55.18:020][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.01-21.55.18:020][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.01-21.55.18:020][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.01-21.55.18:020][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.01-21.55.18:546][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.12.01-21.55.18:595][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.12.01-21.55.18:613][  0]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.01-21.55.18:661][  0]LogInit: FAudioDevice initialized.
+[2018.12.01-21.55.18:661][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.12.01-21.55.18:803][  0]LogDerivedDataCache: Saved boot cache 0.14s 71MB C:/Users/darin/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.12.01-21.55.18:833][  0]LogInit: Texture streaming: Enabled
+[2018.12.01-21.55.18:896][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.12.01-21.55.18:935][  0]LogInit: Transaction tracking system initialized
+[2018.12.01-21.55.19:014][  0]BlueprintLog: New page: Editor Load
+[2018.12.01-21.55.19:276][  0]LocalizationService: Localization service is disabled
+[2018.12.01-21.55.20:096][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.12.01-21.55.20:097][  0]LogCook: Display: Mobile HDR setting 1
+[2018.12.01-21.55.20:097][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.12.01-21.55.20:097][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.01-21.55.20:097][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.01-21.55.20:098][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.01-21.55.20:098][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.01-21.55.20:535][  0]LogFileCache: Scanning file cache for directory 'E:/UnrealProjects/SpaceshipBattleStarter/SpaceshipBattleStarter/Content/' took 0.01s
+[2018.12.01-21.55.20:535][  0]SourceControl: Source control is disabled
+[2018.12.01-21.55.20:535][  0]Cmd: MAP LOAD FILE="E:/UnrealProjects/SpaceshipBattleStarter/SpaceshipBattleStarter/Content/SpaceshipBattle/Maps/TutorialMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.01-21.55.20:537][  0]LightingResults: New page: Lighting Build
+[2018.12.01-21.55.20:545][  0]MapCheck: New page: Map Check
+[2018.12.01-21.55.20:546][  0]LightingResults: New page: Lighting Build
+[2018.12.01-21.55.21:180][  0]LogAIModule: Creating AISystem for world TutorialMap
+[2018.12.01-21.55.21:198][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.01-21.55.21:242][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.01-21.55.21:681][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 439,066ms to complete.
+[2018.12.01-21.55.21:682][  0]LogFileHelpers: Loading map 'TutorialMap' took 1.147
+[2018.12.01-21.55.21:853][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.01-21.55.21:875][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.01-21.55.21:893][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.01-21.55.21:911][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.01-21.55.21:930][  0]LogCollectionManager: Loaded 0 collections in 0.004709 seconds
+[2018.12.01-21.55.21:982][  0]LogFileCache: Scanning file cache for directory 'E:/UnrealProjects/SpaceshipBattleStarter/SpaceshipBattleStarter/Saved/Collections/' took 0.01s
+[2018.12.01-21.55.21:982][  0]LogFileCache: Scanning file cache for directory 'E:/UnrealProjects/SpaceshipBattleStarter/SpaceshipBattleStarter/Content/Developers/darin/Collections/' took 0.01s
+[2018.12.01-21.55.21:982][  0]LogFileCache: Scanning file cache for directory 'E:/UnrealProjects/SpaceshipBattleStarter/SpaceshipBattleStarter/Content/Collections/' took 0.01s
+[2018.12.01-21.55.21:982][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.12.01-21.55.22:004][  0]LogContentBrowser: Native class hierarchy populated in 0.0212 seconds. Added 2572 classes and 603 folders.
+[2018.12.01-21.55.22:023][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.12.01-21.55.22:176][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.12.01-21.55.22:189][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.12.01-21.55.22:227][  0]LogSlate: Took 0.001244 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.12.01-21.55.22:233][  0]LogSlate: Took 0.001448 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.12.01-21.55.22:248][  0]LogSlate: Took 0.001112 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.12.01-21.55.22:448][  0]LogRenderer: Reallocating scene render targets to support 648x352 Format 10 NumSamples 1 (Frame:1).
+[2018.12.01-21.55.22:839][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.12.01-21.55.22:839][  0]LogLoad: (Engine Initialization) Total time: 25.64 seconds
+[2018.12.01-21.55.22:840][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.12.01-21.55.22:892][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.12.01-21.55.22:906][  0]LogSlate: Took 0.000861 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.01-21.55.23:433][  3]LogAssetRegistry: Asset discovery search completed in 12.2040 seconds
+[2018.12.01-21.55.23:437][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.12.01-21.55.23:437][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000131 seconds (updated 0 objects)
+[2018.12.01-21.56.22:606][240]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.01-21.56.43:560][ 41]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.01-21.56.43:560][ 41]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.01-21.57.01:052][809]LogSlate: Took 0.000652 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.01-21.57.01:069][809]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/SpaceshipBattle/ParticleSystems/PS_Thruster.PS_Thruster
+[2018.12.01-21.57.01:104][809]LogContentBrowser: Native class hierarchy updated for 'Cascade' in 0.0006 seconds. Added 2 classes and 2 folders.
+[2018.12.01-21.57.10:621][860]LogSavePackage: Moving 'E:/UnrealProjects/SpaceshipBattleStarter/SpaceshipBattleStarter/Saved/PS_ThrusterC498F8454F22A001F5DD51A12EE8155E.tmp' to 'E:/UnrealProjects/SpaceshipBattleStarter/SpaceshipBattleStarter/Content/SpaceshipBattle/ParticleSystems/PS_Thruster.uasset'
+[2018.12.01-21.57.13:945][938]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Engine/Tutorial/SubEditors/TutorialAssets/TutorialParticleSystem.TutorialParticleSystem
+[2018.12.01-21.57.13:970][938]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.12.01-21.57.14:556][938]LogSlate: Window 'Tutorials' being destroyed
+[2018.12.01-21.57.28:018][262]LogSlate: Window 'Tutorials' being destroyed
+[2018.12.01-21.57.28:051][262]LogSlate: Window 'Tutorials' being destroyed
+[2018.12.01-21.58.43:417][872]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.01-21.58.49:772][999]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.01-21.58.51:441][ 56]LogTexture: Display: Building textures: T_Circle (AutoDXT, 512X512)
+[2018.12.01-21.58.51:441][ 56]LogMaterial: Display: Missing cached shader map for material M_Particle, compiling. 
+[2018.12.01-21.58.51:520][ 56]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.12.01-21.58.51:520][ 56]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.01-21.58.51:520][ 56]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.12.01-21.59.05:087][299]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.01-22.00.01:161][ 61]LogCascade: Non-seeded module ParticleModuleSizeMultiplyLife
+[2018.12.01-22.00.01:177][ 61]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.01-22.00.02:932][125]LogCascade: Non-seeded module ParticleModuleAccelerationConstant
+[2018.12.01-22.00.02:968][125]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.01-22.00.04:154][162]LogCascade: Non-seeded module ParticleModuleSubUV
+[2018.12.01-22.00.04:195][162]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.01-22.00.05:294][198]LogCascade: Non-seeded module ParticleModuleRotation
+[2018.12.01-22.00.05:334][198]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.01-22.00.07:000][258]LogCascade: Non-seeded module ParticleModuleRotationRate
+[2018.12.01-22.00.07:040][258]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.01-22.00.13:241][411]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.01-22.00.14:029][441]LogCascade: Non-seeded module ParticleModuleParameterDynamic
+[2018.12.01-22.00.41:876][ 13]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.01-22.00.57:488][381]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.01-22.01.20:300][ 16]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.01-22.01.25:066][ 16]LogSlate: Window 'Message' being destroyed
+[2018.12.01-22.01.39:597][288]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.01-22.01.44:832][415]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.01-22.01.54:777][673]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.01-22.01.56:073][703]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.01-22.01.58:255][756]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.01-22.02.03:094][865]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.01-22.02.14:090][933]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.01-22.02.30:029][227]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.01-22.02.30:141][231]LogCascade: Quitting Cascade. FXSystem=0x0000014B08A5C9A0
+[2018.12.01-22.02.35:420][348]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.01-22.02.41:808][542]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.01-22.02.42:023][547]LogSavePackage: Moving 'E:/UnrealProjects/SpaceshipBattleStarter/SpaceshipBattleStarter/Saved/PS_ThrusterCC7B8754450816F87672F1837BDCCB36.tmp' to 'E:/UnrealProjects/SpaceshipBattleStarter/SpaceshipBattleStarter/Content/SpaceshipBattle/ParticleSystems/PS_Thruster.uasset'
+[2018.12.01-22.02.46:893][664]LogSlate: Window 'PS_Thruster' being destroyed
+[2018.12.01-22.02.46:918][664]LogSlate: Window 'PS_Thruster' being destroyed
+[2018.12.01-22.02.46:918][664]LogCascade: Quitting Cascade. FXSystem=0x0000014B71F55EE0
+[2018.12.01-22.02.46:944][664]LogActorComponent: UnregisterComponent: (/Engine/Transient.FloorComponent) Not registered. Aborting.
+[2018.12.01-22.03.11:141][ 38]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/SpaceshipBattle/Blueprints/BP_Player.BP_Player
+[2018.12.01-22.03.12:589][ 38]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0012 seconds. Added 116 classes and 0 folders.
+[2018.12.01-22.03.14:891][ 38]LogSlate: Took 0.003016 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.12.01-22.03.15:225][ 39]LogSlate: Took 0.003917 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.12.01-22.06.45:622][ 49]BlueprintLog: New page: Compile BP_Player
+[2018.12.01-22.06.47:056][ 63]LogSavePackage: Moving 'E:/UnrealProjects/SpaceshipBattleStarter/SpaceshipBattleStarter/Saved/BP_Player89D682D04B27AA347CC137B9946D2D44.tmp' to 'E:/UnrealProjects/SpaceshipBattleStarter/SpaceshipBattleStarter/Content/SpaceshipBattle/Blueprints/BP_Player.uasset'
+[2018.12.01-22.06.47:667][ 81]LogSlate: Window 'BP_Player' being destroyed
+[2018.12.01-22.06.54:750][259]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.01-22.06.54:779][259]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2018.12.01-22.06.54:781][259]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.01-22.06.54:804][259]PIE: New page: PIE session: TutorialMap (2 дек. 2018 г., 2:06:54)
+[2018.12.01-22.06.54:805][259]LogPlayLevel: Creating play world package: /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap
+[2018.12.01-22.06.54:819][259]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013793s)
+[2018.12.01-22.06.54:820][259]LogAIModule: Creating AISystem for world TutorialMap
+[2018.12.01-22.06.54:821][259]LogPlayLevel: PIE: World Init took: (0.001842s)
+[2018.12.01-22.06.54:821][259]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap to /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.016045s)
+[2018.12.01-22.06.54:880][259]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.01-22.06.54:913][259]LogInit: FAudioDevice initialized.
+[2018.12.01-22.06.54:963][259]LogLoad: Game class is 'GM_Tutorial_C'
+[2018.12.01-22.06.54:965][259]LogWorld: Bringing World /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2018.12.02-00.06.54
+[2018.12.01-22.06.54:967][259]LogWorld: Bringing up level for play took: 0.003120
+[2018.12.01-22.06.55:010][259]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 10 classes and 0 folders.
+[2018.12.01-22.06.55:019][259]Cmd: r.TonemapperFilm 0
+[2018.12.01-22.06.55:026][259]r.TonemapperFilm = "0"
+[2018.12.01-22.06.55:027][259]PIE: Play in editor start time for /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap 0,995
+[2018.12.01-22.06.55:027][259]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2018.12.01-22.07.11:594][ 62]LogNet: Browse: /Game/SpaceshipBattle/Maps/TutorialMap
+[2018.12.01-22.07.11:614][ 62]LogLoad: LoadMap: /Game/SpaceshipBattle/Maps/TutorialMap
+[2018.12.01-22.07.11:672][ 62]LogPlayLevel: Creating play world package: /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap
+[2018.12.01-22.07.11:682][ 62]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009698s)
+[2018.12.01-22.07.11:683][ 62]LogAIModule: Creating AISystem for world TutorialMap
+[2018.12.01-22.07.11:683][ 62]LogPlayLevel: PIE: World Init took: (0.001263s)
+[2018.12.01-22.07.11:683][ 62]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap to /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.011355s)
+[2018.12.01-22.07.11:683][ 62]LogLoad: Game class is 'GM_Tutorial_C'
+[2018.12.01-22.07.11:685][ 62]LogWorld: Bringing World /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2018.12.02-00.07.11
+[2018.12.01-22.07.11:686][ 62]LogWorld: Bringing up level for play took: 0.001843
+[2018.12.01-22.07.11:691][ 62]Cmd: r.TonemapperFilm 0
+[2018.12.01-22.07.11:691][ 62]r.TonemapperFilm = "0"
+[2018.12.01-22.07.11:691][ 62]LogLoad: Took 0.077347 seconds to LoadMap(/Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap)
+[2018.12.01-22.07.12:565][104]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2018.12.01-22.07.12:567][104]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.01-22.07.12:619][104]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.01-22.07.12:620][104]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2018.12.01-22.07.12:669][104]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.01-22.07.12:699][105]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2018.12.01-22.07.32:906][213]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.01-22.07.38:397][279]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/SpaceshipBattle/ParticleSystems/PS_Thruster.PS_Thruster
+[2018.12.01-22.07.39:095][283]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SpaceshipBattle/Maps/TutorialMap' took 0.051
+[2018.12.01-22.07.39:100][283]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Engine/Tutorial/SubEditors/TutorialAssets/TutorialParticleSystem] ([1] browsable assets)...
+[2018.12.01-22.07.39:115][283]OBJ SavePackage:     Rendered thumbnail for [ParticleSystem /Engine/Tutorial/SubEditors/TutorialAssets/TutorialParticleSystem.TutorialParticleSystem]
+[2018.12.01-22.07.39:115][283]OBJ SavePackage: Finished generating thumbnails for package [/Engine/Tutorial/SubEditors/TutorialAssets/TutorialParticleSystem]
+[2018.12.01-22.07.39:147][283]LogSavePackage: Moving 'E:/UnrealProjects/SpaceshipBattleStarter/SpaceshipBattleStarter/Saved/TutorialParticleSystem_Auto16D6F067B48866EED5372609B52665EA1.tmp' to 'E:/UnrealProjects/SpaceshipBattleStarter/SpaceshipBattleStarter/Saved/Autosaves/Engine/Tutorial/SubEditors/TutorialAssets/TutorialParticleSystem_Auto1.uasset'
+[2018.12.01-22.07.39:149][283]LogFileHelpers: Auto-saving content packages took 0.052
+[2018.12.01-22.08.13:429][839]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.01-22.08.54:478][385]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.01-22.08.55:054][396]LogSavePackage: Moving 'E:/UnrealProjects/SpaceshipBattleStarter/SpaceshipBattleStarter/Saved/PS_Thruster67D1477E4D6D3F7611FA5BA27C83F2FD.tmp' to 'E:/UnrealProjects/SpaceshipBattleStarter/SpaceshipBattleStarter/Content/SpaceshipBattle/ParticleSystems/PS_Thruster.uasset'
+[2018.12.01-22.09.18:651][526]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.12.01-22.09.51:868][930]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.01-22.09.52:792][945]LogSavePackage: Moving 'E:/UnrealProjects/SpaceshipBattleStarter/SpaceshipBattleStarter/Saved/PS_ThrusterD43361DA4098EC45E7BAA3B6A339EBC8.tmp' to 'E:/UnrealProjects/SpaceshipBattleStarter/SpaceshipBattleStarter/Content/SpaceshipBattle/ParticleSystems/PS_Thruster.uasset'
+[2018.12.01-22.09.53:737][967]LogSlate: Window 'PS_Thruster' being destroyed
+[2018.12.01-22.09.53:788][967]LogCascade: Quitting Cascade. FXSystem=0x0000014B08A5F420
+[2018.12.01-22.09.56:730][ 70]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.01-22.09.56:745][ 70]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2018.12.01-22.09.56:746][ 70]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.01-22.09.56:746][ 70]PIE: New page: PIE session: TutorialMap (2 дек. 2018 г., 2:09:56)
+[2018.12.01-22.09.56:746][ 70]LogPlayLevel: Creating play world package: /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap
+[2018.12.01-22.09.56:756][ 70]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009728s)
+[2018.12.01-22.09.56:757][ 70]LogAIModule: Creating AISystem for world TutorialMap
+[2018.12.01-22.09.56:758][ 70]LogPlayLevel: PIE: World Init took: (0.001636s)
+[2018.12.01-22.09.56:758][ 70]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap to /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.011715s)
+[2018.12.01-22.09.56:839][ 70]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.01-22.09.56:877][ 70]LogInit: FAudioDevice initialized.
+[2018.12.01-22.09.56:920][ 70]LogLoad: Game class is 'GM_Tutorial_C'
+[2018.12.01-22.09.56:923][ 70]LogWorld: Bringing World /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2018.12.02-00.09.56
+[2018.12.01-22.09.56:924][ 70]LogWorld: Bringing up level for play took: 0.001950
+[2018.12.01-22.09.56:939][ 70]Cmd: r.TonemapperFilm 0
+[2018.12.01-22.09.56:940][ 70]r.TonemapperFilm = "0"
+[2018.12.01-22.09.56:940][ 70]PIE: Play in editor start time for /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap 0,908
+[2018.12.01-22.09.56:941][ 70]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2018.12.01-22.10.05:828][495]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2018.12.01-22.10.05:829][495]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.01-22.10.05:883][495]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.01-22.10.05:883][495]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2018.12.01-22.10.05:941][495]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.01-22.10.05:975][496]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2018.12.01-22.10.25:078][586]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.01-22.10.25:981][596]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/SpaceshipBattle/ParticleSystems/PS_Thruster.PS_Thruster
+[2018.12.01-22.10.36:508][745]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.01-22.11.09:858][998]LogSavePackage: Moving 'E:/UnrealProjects/SpaceshipBattleStarter/SpaceshipBattleStarter/Saved/PS_Thruster90268B1D40287B52F9B5AE9892E9D642.tmp' to 'E:/UnrealProjects/SpaceshipBattleStarter/SpaceshipBattleStarter/Content/SpaceshipBattle/ParticleSystems/PS_Thruster.uasset'
+[2018.12.01-22.11.10:892][ 23]LogSlate: Window 'PS_Thruster' being destroyed
+[2018.12.01-22.11.10:941][ 23]LogCascade: Quitting Cascade. FXSystem=0x0000014B08C8E480
+[2018.12.01-22.11.13:324][107]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.01-22.11.13:344][107]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2018.12.01-22.11.13:344][107]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.01-22.11.13:344][107]PIE: New page: PIE session: TutorialMap (2 дек. 2018 г., 2:11:13)
+[2018.12.01-22.11.13:344][107]LogPlayLevel: Creating play world package: /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap
+[2018.12.01-22.11.13:355][107]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010205s)
+[2018.12.01-22.11.13:356][107]LogAIModule: Creating AISystem for world TutorialMap
+[2018.12.01-22.11.13:356][107]LogPlayLevel: PIE: World Init took: (0.001390s)
+[2018.12.01-22.11.13:356][107]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap to /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.011856s)
+[2018.12.01-22.11.13:415][107]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.01-22.11.13:448][107]LogInit: FAudioDevice initialized.
+[2018.12.01-22.11.13:487][107]LogLoad: Game class is 'GM_Tutorial_C'
+[2018.12.01-22.11.13:489][107]LogWorld: Bringing World /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2018.12.02-00.11.13
+[2018.12.01-22.11.13:489][107]LogWorld: Bringing up level for play took: 0.001581
+[2018.12.01-22.11.13:507][107]Cmd: r.TonemapperFilm 0
+[2018.12.01-22.11.13:507][107]r.TonemapperFilm = "0"
+[2018.12.01-22.11.13:507][107]PIE: Play in editor start time for /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap -0,524
+[2018.12.01-22.11.13:508][107]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2018.12.01-22.11.20:490][442]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2018.12.01-22.11.20:491][442]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.01-22.11.20:548][442]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.01-22.11.20:548][442]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2018.12.01-22.11.20:628][442]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.01-22.11.20:690][443]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2018.12.01-22.11.50:180][569]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.01-22.11.51:880][610]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/SpaceshipBattle/ParticleSystems/PS_Thruster.PS_Thruster
+[2018.12.01-22.13.24:290][ 61]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.01-22.13.27:907][143]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.01-22.13.42:114][365]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.01-22.15.33:429][739]LogCascade: Non-seeded module ParticleModuleSizeMultiplyLife
+[2018.12.01-22.15.37:234][799]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.01-22.15.48:974][933]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.01-22.16.00:107][ 72]LogSavePackage: Moving 'E:/UnrealProjects/SpaceshipBattleStarter/SpaceshipBattleStarter/Saved/PS_Thruster300ECE74448D3C3734D3FBB88DD58AC8.tmp' to 'E:/UnrealProjects/SpaceshipBattleStarter/SpaceshipBattleStarter/Content/SpaceshipBattle/ParticleSystems/PS_Thruster.uasset'
+[2018.12.01-22.16.01:151][ 97]LogSlate: Window 'PS_Thruster' being destroyed
+[2018.12.01-22.16.01:201][ 97]LogCascade: Quitting Cascade. FXSystem=0x0000014B2CE5B240
+[2018.12.01-22.16.03:969][198]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.01-22.16.03:985][198]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2018.12.01-22.16.03:985][198]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.01-22.16.03:986][198]PIE: New page: PIE session: TutorialMap (2 дек. 2018 г., 2:16:03)
+[2018.12.01-22.16.03:986][198]LogPlayLevel: Creating play world package: /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap
+[2018.12.01-22.16.03:996][198]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009434s)
+[2018.12.01-22.16.03:997][198]LogAIModule: Creating AISystem for world TutorialMap
+[2018.12.01-22.16.03:998][198]LogPlayLevel: PIE: World Init took: (0.001593s)
+[2018.12.01-22.16.03:998][198]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap to /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.011378s)
+[2018.12.01-22.16.04:054][198]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.01-22.16.04:088][198]LogInit: FAudioDevice initialized.
+[2018.12.01-22.16.04:128][198]LogLoad: Game class is 'GM_Tutorial_C'
+[2018.12.01-22.16.04:130][198]LogWorld: Bringing World /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2018.12.02-00.16.04
+[2018.12.01-22.16.04:131][198]LogWorld: Bringing up level for play took: 0.001953
+[2018.12.01-22.16.04:147][198]Cmd: r.TonemapperFilm 0
+[2018.12.01-22.16.04:147][198]r.TonemapperFilm = "0"
+[2018.12.01-22.16.04:147][198]PIE: Play in editor start time for /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap 0,116
+[2018.12.01-22.16.04:148][198]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2018.12.01-22.16.29:128][413]LogNet: Browse: /Game/SpaceshipBattle/Maps/TutorialMap
+[2018.12.01-22.16.29:147][413]LogLoad: LoadMap: /Game/SpaceshipBattle/Maps/TutorialMap
+[2018.12.01-22.16.29:208][413]LogPlayLevel: Creating play world package: /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap
+[2018.12.01-22.16.29:219][413]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010428s)
+[2018.12.01-22.16.29:220][413]LogAIModule: Creating AISystem for world TutorialMap
+[2018.12.01-22.16.29:220][413]LogPlayLevel: PIE: World Init took: (0.001371s)
+[2018.12.01-22.16.29:220][413]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap to /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.012165s)
+[2018.12.01-22.16.29:220][413]LogLoad: Game class is 'GM_Tutorial_C'
+[2018.12.01-22.16.29:224][413]LogWorld: Bringing World /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2018.12.02-00.16.29
+[2018.12.01-22.16.29:224][413]LogWorld: Bringing up level for play took: 0.002127
+[2018.12.01-22.16.29:228][413]Cmd: r.TonemapperFilm 0
+[2018.12.01-22.16.29:228][413]r.TonemapperFilm = "0"
+[2018.12.01-22.16.29:228][413]LogLoad: Took 0.081658 seconds to LoadMap(/Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap)
+[2018.12.01-22.16.30:329][463]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2018.12.01-22.16.30:329][463]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.01-22.16.30:383][463]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.01-22.16.30:384][463]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2018.12.01-22.16.30:437][463]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.01-22.16.30:480][464]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2018.12.01-22.16.59:028][605]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.01-22.17.02:064][641]LogAssetEditorManager: Opening Asset editor for Material /Game/SpaceshipBattle/Materials/M_Particle.M_Particle
+[2018.12.01-22.17.02:071][641]LogMaterial: Display: Missing cached shader map for material M_Particle, compiling. 
+[2018.12.01-22.17.02:843][641]LogMaterial: Display: Missing cached shader map for material M_Particle, compiling. 
+[2018.12.01-22.17.02:908][641]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.01-22.17.02:908][641]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.01-22.17.02:908][641]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.01-22.17.02:948][641]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.12.01-22.17.02:966][641]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.12.01-22.17.05:457][670]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.01-22.17.05:653][673]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.01-22.17.05:954][677]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.01-22.17.06:318][682]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.01-22.17.06:319][682]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.12.01-22.17.06:800][688]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.01-22.17.07:984][705]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.01-22.17.08:061][706]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.12.01-22.17.09:636][726]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.12.01-22.17.09:637][726]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.01-22.17.10:379][735]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.01-22.17.10:610][736]MaterialEditorStats: Base pass shader without light map: 48 instructions
+[2018.12.01-22.17.10:610][736]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2018.12.01-22.17.10:610][736]MaterialEditorStats: Texture samplers: 3/16
+[2018.12.01-22.17.10:611][736]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2018.12.01-22.17.10:611][736]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.12.01-22.17.25:358][861]LogMaterial: Display: Missing cached shader map for material M_Particle, compiling. 
+[2018.12.01-22.17.25:525][862]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.01-22.17.25:525][862]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.01-22.17.25:525][862]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.01-22.17.26:350][877]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.12.01-22.17.26:401][878]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.01-22.17.26:693][884]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.01-22.17.27:302][896]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.12.01-22.17.27:659][903]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.12.01-22.17.27:911][908]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.01-22.17.29:699][942]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.01-22.17.31:193][969]LogMaterial: Display: Missing cached shader map for material M_Particle, compiling. 
+[2018.12.01-22.17.31:219][969]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.01-22.17.31:366][970]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.01-22.17.32:068][985]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.01-22.17.32:375][991]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.12.01-22.17.32:502][994]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.01-22.17.33:500][ 14]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.01-22.17.33:642][ 17]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.12.01-22.17.33:764][ 19]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.12.01-22.17.34:979][ 40]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.01-22.17.36:269][ 62]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.01-22.17.37:563][ 84]LogMaterial: Display: Missing cached shader map for material M_Particle, compiling. 
+[2018.12.01-22.17.37:591][ 84]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.01-22.17.37:859][ 90]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.01-22.17.38:823][109]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.01-22.17.39:069][114]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.12.01-22.17.39:116][115]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.01-22.17.40:081][134]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.01-22.17.40:280][138]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.12.01-22.17.40:377][140]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.12.01-22.17.41:800][151]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.01-22.17.43:046][163]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.01-22.17.45:651][196]MaterialEditorStats: Base pass shader without light map: 49 instructions
+[2018.12.01-22.17.45:651][196]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2018.12.01-22.17.45:651][196]MaterialEditorStats: Texture samplers: 3/16
+[2018.12.01-22.17.45:652][196]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2018.12.01-22.17.45:652][196]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.12.01-22.18.00:163][331]LogMaterial: Display: Missing cached shader map for material M_Particle, compiling. 
+[2018.12.01-22.18.00:315][332]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.01-22.18.00:315][332]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.01-22.18.00:315][332]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.01-22.18.01:261][352]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.12.01-22.18.01:466][356]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.01-22.18.01:517][357]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.01-22.18.02:477][376]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.12.01-22.18.02:523][377]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.12.01-22.18.02:832][383]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.01-22.18.04:740][406]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.01-22.18.06:935][442]MaterialEditorStats: Base pass shader without light map: 49 instructions
+[2018.12.01-22.18.06:935][442]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2018.12.01-22.18.06:935][442]MaterialEditorStats: Texture samplers: 3/16
+[2018.12.01-22.18.06:935][442]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2018.12.01-22.18.06:936][442]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.12.01-22.18.08:636][476]LogMaterial: Display: Missing cached shader map for material M_Particle, compiling. 
+[2018.12.01-22.18.08:651][476]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.01-22.18.08:651][476]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.01-22.18.08:651][476]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.01-22.18.09:779][498]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.12.01-22.18.09:824][499]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.01-22.18.09:840][499]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.01-22.18.09:953][500]LogMaterial: Display: Missing cached shader map for material M_Particle, compiling. 
+[2018.12.01-22.18.10:002][500]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.12.01-22.18.10:761][515]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.01-22.18.10:917][516]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.01-22.18.11:167][522]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.01-22.18.11:773][532]LogMaterial: Display: Missing cached shader map for material M_Particle, compiling. 
+[2018.12.01-22.18.11:910][535]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.01-22.18.12:004][537]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.01-22.18.12:516][547]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.01-22.18.13:716][570]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.01-22.18.13:761][571]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.01-22.18.14:430][584]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.12.01-22.18.15:653][595]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.01-22.18.15:713][596]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.01-22.18.16:416][603]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.12.01-22.18.16:695][606]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.12.01-22.18.16:964][610]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.01-22.18.18:334][628]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.01-22.18.20:803][663]MaterialEditorStats: Base pass shader without light map: 49 instructions
+[2018.12.01-22.18.20:803][663]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2018.12.01-22.18.20:803][663]MaterialEditorStats: Texture samplers: 3/16
+[2018.12.01-22.18.20:803][663]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2018.12.01-22.18.20:803][663]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.12.01-22.18.25:991][695]LogMaterialEditor: Saving and Compiling material M_Particle
+[2018.12.01-22.18.28:101][695]LogMaterial: Display: Missing cached shader map for material M_Particle, compiling. 
+[2018.12.01-22.18.28:155][695]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.01-22.18.28:156][695]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.01-22.18.28:156][695]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.01-22.18.28:217][695]LogMaterial: Display: Missing cached shader map for material M_Particle, compiling. 
+[2018.12.01-22.18.28:324][695]LogMaterial: Display: Missing cached shader map for material M_Particle, compiling. 
+[2018.12.01-22.18.28:615][695]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Particle, compiling. 
+[2018.12.01-22.18.32:052][695]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.12.01-22.18.32:052][695]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.12.01-22.18.32:053][695]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.12.01-22.18.32:053][695]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.12.01-22.18.32:053][695]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.12.01-22.18.32:053][695]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.12.01-22.18.32:053][695]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.12.01-22.18.32:053][695]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.12.01-22.18.32:053][695]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.12.01-22.18.32:060][695]TextureStreamingBuild: Display: Compiling optional shaders took 3.465 seconds.
+[2018.12.01-22.18.44:724][695]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.01-22.18.44:724][695]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.12.01-22.18.44:874][695]LogSavePackage: Moving 'E:/UnrealProjects/SpaceshipBattleStarter/SpaceshipBattleStarter/Saved/M_Particle6DA524724EF73B4B4EAD68AAA59585C8.tmp' to 'E:/UnrealProjects/SpaceshipBattleStarter/SpaceshipBattleStarter/Content/SpaceshipBattle/Materials/M_Particle.uasset'
+[2018.12.01-22.18.44:894][695]MaterialEditorStats: Base pass shader without light map: 49 instructions
+[2018.12.01-22.18.44:894][695]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2018.12.01-22.18.44:894][695]MaterialEditorStats: Texture samplers: 7/16
+[2018.12.01-22.18.44:894][695]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2018.12.01-22.18.44:894][695]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.12.01-22.19.00:292][ 28]LogSlate: Window 'M_Particle' being destroyed
+[2018.12.01-22.19.35:555][273]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/SpaceshipBattle/ParticleSystems/PS_Thruster.PS_Thruster
+[2018.12.01-22.20.35:222][706]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.01-22.21.13:937][375]LogSlate: Window 'Color Picker' being destroyed
+[2018.12.01-22.21.48:935][786]LogCascade: Non-seeded module ParticleModuleColorOverLife
+[2018.12.01-22.21.48:985][786]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.01-22.21.55:963][879]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.01-22.21.56:215][882]LogSavePackage: Moving 'E:/UnrealProjects/SpaceshipBattleStarter/SpaceshipBattleStarter/Saved/PS_Thruster8B080CA34548CFE6F57F5991089E2963.tmp' to 'E:/UnrealProjects/SpaceshipBattleStarter/SpaceshipBattleStarter/Content/SpaceshipBattle/ParticleSystems/PS_Thruster.uasset'
+[2018.12.01-22.21.57:665][916]LogSlate: Window 'PS_Thruster' being destroyed
+[2018.12.01-22.21.57:713][916]LogCascade: Quitting Cascade. FXSystem=0x0000014B58AE39C0
+[2018.12.01-22.22.00:740][ 26]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.01-22.22.00:756][ 26]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2018.12.01-22.22.00:757][ 26]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.01-22.22.00:757][ 26]PIE: New page: PIE session: TutorialMap (2 дек. 2018 г., 2:22:00)
+[2018.12.01-22.22.00:757][ 26]LogPlayLevel: Creating play world package: /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap
+[2018.12.01-22.22.00:767][ 26]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010333s)
+[2018.12.01-22.22.00:769][ 26]LogAIModule: Creating AISystem for world TutorialMap
+[2018.12.01-22.22.00:769][ 26]LogPlayLevel: PIE: World Init took: (0.001410s)
+[2018.12.01-22.22.00:769][ 26]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap to /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.012043s)
+[2018.12.01-22.22.00:831][ 26]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.01-22.22.00:865][ 26]LogInit: FAudioDevice initialized.
+[2018.12.01-22.22.00:902][ 26]LogLoad: Game class is 'GM_Tutorial_C'
+[2018.12.01-22.22.00:905][ 26]LogWorld: Bringing World /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2018.12.02-00.22.00
+[2018.12.01-22.22.00:905][ 26]LogWorld: Bringing up level for play took: 0.001818
+[2018.12.01-22.22.00:921][ 26]Cmd: r.TonemapperFilm 0
+[2018.12.01-22.22.00:922][ 26]r.TonemapperFilm = "0"
+[2018.12.01-22.22.00:922][ 26]PIE: Play in editor start time for /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap 0,89
+[2018.12.01-22.22.00:922][ 26]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2018.12.01-22.23.12:906][444]LogNet: Browse: /Game/SpaceshipBattle/Maps/TutorialMap
+[2018.12.01-22.23.12:924][444]LogLoad: LoadMap: /Game/SpaceshipBattle/Maps/TutorialMap
+[2018.12.01-22.23.12:981][444]LogPlayLevel: Creating play world package: /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap
+[2018.12.01-22.23.12:992][444]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010808s)
+[2018.12.01-22.23.12:993][444]LogAIModule: Creating AISystem for world TutorialMap
+[2018.12.01-22.23.12:994][444]LogPlayLevel: PIE: World Init took: (0.001401s)
+[2018.12.01-22.23.12:994][444]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap to /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.012558s)
+[2018.12.01-22.23.12:994][444]LogLoad: Game class is 'GM_Tutorial_C'
+[2018.12.01-22.23.12:996][444]LogWorld: Bringing World /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2018.12.02-00.23.12
+[2018.12.01-22.23.12:997][444]LogWorld: Bringing up level for play took: 0.002355
+[2018.12.01-22.23.13:001][444]Cmd: r.TonemapperFilm 0
+[2018.12.01-22.23.13:001][444]r.TonemapperFilm = "0"
+[2018.12.01-22.23.13:002][444]LogLoad: Took 0.077705 seconds to LoadMap(/Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap)
+[2018.12.01-22.23.14:636][524]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2018.12.01-22.23.14:636][524]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.01-22.23.14:686][524]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.01-22.23.14:687][524]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2018.12.01-22.23.14:739][524]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.01-22.23.14:771][525]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2018.12.01-22.23.50:837][666]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.01-22.24.49:190][147]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/SpaceshipBattle/Blueprints/BP_Player.BP_Player
+[2018.12.01-22.27.13:890][328]LogEditorTransaction: Undo Split Struct Pin
+[2018.12.01-22.27.19:109][459]LogEditorTransaction: Undo Move Node
+[2018.12.01-22.27.19:843][473]LogEditorTransaction: Undo Change Vector Pin Value
+[2018.12.01-22.27.20:683][491]LogEditorTransaction: Undo Add Node
+[2018.12.01-22.30.48:276][305]LogSavePackage: Moving 'E:/UnrealProjects/SpaceshipBattleStarter/SpaceshipBattleStarter/Saved/BP_Player83A5F3804E1D96F269E7FC9EF23AA09A.tmp' to 'E:/UnrealProjects/SpaceshipBattleStarter/SpaceshipBattleStarter/Content/SpaceshipBattle/Blueprints/BP_Player.uasset'
+[2018.12.01-22.30.49:789][347]BlueprintLog: New page: Compile BP_Player
+[2018.12.01-22.30.52:350][402]LogSlate: Window 'BP_Player' being destroyed
+[2018.12.01-22.30.54:636][479]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.01-22.30.54:651][479]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2018.12.01-22.30.54:652][479]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.01-22.30.54:652][479]PIE: New page: PIE session: TutorialMap (2 дек. 2018 г., 2:30:54)
+[2018.12.01-22.30.54:652][479]LogPlayLevel: Creating play world package: /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap
+[2018.12.01-22.30.54:663][479]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010362s)
+[2018.12.01-22.30.54:664][479]LogAIModule: Creating AISystem for world TutorialMap
+[2018.12.01-22.30.54:664][479]LogPlayLevel: PIE: World Init took: (0.001675s)
+[2018.12.01-22.30.54:664][479]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap to /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.012377s)
+[2018.12.01-22.30.54:724][479]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.01-22.30.54:758][479]LogInit: FAudioDevice initialized.
+[2018.12.01-22.30.54:793][479]LogLoad: Game class is 'GM_Tutorial_C'
+[2018.12.01-22.30.54:795][479]LogWorld: Bringing World /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2018.12.02-00.30.54
+[2018.12.01-22.30.54:796][479]LogWorld: Bringing up level for play took: 0.001605
+[2018.12.01-22.30.54:812][479]Cmd: r.TonemapperFilm 0
+[2018.12.01-22.30.54:812][479]r.TonemapperFilm = "0"
+[2018.12.01-22.30.54:813][479]PIE: Play in editor start time for /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap 0,781
+[2018.12.01-22.30.54:813][479]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2018.12.01-22.31.46:648][933]LogNet: Browse: /Game/SpaceshipBattle/Maps/TutorialMap
+[2018.12.01-22.31.46:666][933]LogLoad: LoadMap: /Game/SpaceshipBattle/Maps/TutorialMap
+[2018.12.01-22.31.46:724][933]LogPlayLevel: Creating play world package: /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap
+[2018.12.01-22.31.46:735][933]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011114s)
+[2018.12.01-22.31.46:736][933]LogAIModule: Creating AISystem for world TutorialMap
+[2018.12.01-22.31.46:737][933]LogPlayLevel: PIE: World Init took: (0.001612s)
+[2018.12.01-22.31.46:737][933]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap to /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.013096s)
+[2018.12.01-22.31.46:737][933]LogLoad: Game class is 'GM_Tutorial_C'
+[2018.12.01-22.31.46:739][933]LogWorld: Bringing World /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2018.12.02-00.31.46
+[2018.12.01-22.31.46:740][933]LogWorld: Bringing up level for play took: 0.001754
+[2018.12.01-22.31.46:743][933]Cmd: r.TonemapperFilm 0
+[2018.12.01-22.31.46:744][933]r.TonemapperFilm = "0"
+[2018.12.01-22.31.46:744][933]LogLoad: Took 0.078084 seconds to LoadMap(/Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap)
+[2018.12.01-22.31.48:400][ 15]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2018.12.01-22.31.48:400][ 15]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.01-22.31.48:455][ 15]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.01-22.31.48:455][ 15]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2018.12.01-22.31.48:509][ 15]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.01-22.31.48:544][ 16]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2018.12.01-22.45.54:512][555]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.01-22.46.45:844][ 77]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/SpaceshipBattle/ParticleSystems/PS_Explosion.PS_Explosion
+[2018.12.01-22.47.09:919][238]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.01-22.47.10:246][242]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SpaceshipBattle/Maps/TutorialMap' took 0.057
+[2018.12.01-22.47.10:250][242]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SpaceshipBattle/ParticleSystems/PS_Explosion] ([1] browsable assets)...
+[2018.12.01-22.47.10:263][242]OBJ SavePackage:     Rendered thumbnail for [ParticleSystem /Game/SpaceshipBattle/ParticleSystems/PS_Explosion.PS_Explosion]
+[2018.12.01-22.47.10:263][242]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpaceshipBattle/ParticleSystems/PS_Explosion]
+[2018.12.01-22.47.10:288][242]LogSavePackage: Moving 'E:/UnrealProjects/SpaceshipBattleStarter/SpaceshipBattleStarter/Saved/PS_Explosion_Auto20B1C9C7E4C9922BD44DB05981EDDBC05.tmp' to 'E:/UnrealProjects/SpaceshipBattleStarter/SpaceshipBattleStarter/Saved/Autosaves/Game/SpaceshipBattle/ParticleSystems/PS_Explosion_Auto2.uasset'
+[2018.12.01-22.47.10:290][242]LogFileHelpers: Auto-saving content packages took 0.042
+[2018.12.01-22.47.21:357][268]LogSlate: Window 'Delete Assets' being destroyed
+[2018.12.01-22.47.45:329][455]LogSavePackage: Moving 'E:/UnrealProjects/SpaceshipBattleStarter/SpaceshipBattleStarter/Saved/PS_Explosion8C7547404609BB89631A0C85550CC67F.tmp' to 'E:/UnrealProjects/SpaceshipBattleStarter/SpaceshipBattleStarter/Content/SpaceshipBattle/ParticleSystems/PS_Explosion.uasset'
+[2018.12.01-22.48.55:111][995]LogSavePackage: Moving 'E:/UnrealProjects/SpaceshipBattleStarter/SpaceshipBattleStarter/Saved/PS_Explosion28D16AEF45412151BE8840B4D1003E26.tmp' to 'E:/UnrealProjects/SpaceshipBattleStarter/SpaceshipBattleStarter/Content/SpaceshipBattle/ParticleSystems/PS_Explosion.uasset'
+[2018.12.01-22.49.13:048][231]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.01-22.50.01:993][354]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.01-22.50.29:296][534]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.01-22.50.36:274][615]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.01-22.50.37:122][631]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.01-22.50.48:586][771]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.01-22.50.48:735][772]LogSavePackage: Moving 'E:/UnrealProjects/SpaceshipBattleStarter/SpaceshipBattleStarter/Saved/PS_Explosion852899664767112C80A0A89B8EDF66A9.tmp' to 'E:/UnrealProjects/SpaceshipBattleStarter/SpaceshipBattleStarter/Content/SpaceshipBattle/ParticleSystems/PS_Explosion.uasset'
+[2018.12.01-22.50.49:643][793]LogSlate: Window 'PS_Explosion' being destroyed
+[2018.12.01-22.50.49:695][793]LogCascade: Quitting Cascade. FXSystem=0x0000014B623B82C0
+[2018.12.01-22.51.00:518][  1]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/SpaceshipBattle/Blueprints/BP_Enemy.BP_Enemy
+[2018.12.01-22.52.19:241][262]BlueprintLog: New page: Compile BP_Enemy
+[2018.12.01-22.52.21:589][307]LogSavePackage: Moving 'E:/UnrealProjects/SpaceshipBattleStarter/SpaceshipBattleStarter/Saved/BP_Enemy82C11B0F42026273B50CA1BB2C18CB8A.tmp' to 'E:/UnrealProjects/SpaceshipBattleStarter/SpaceshipBattleStarter/Content/SpaceshipBattle/Blueprints/BP_Enemy.uasset'
+[2018.12.01-22.52.23:711][368]LogSlate: Window 'BP_Enemy' being destroyed
+[2018.12.01-22.52.26:532][469]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.01-22.52.26:547][469]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2018.12.01-22.52.26:547][469]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.01-22.52.26:547][469]PIE: New page: PIE session: TutorialMap (2 дек. 2018 г., 2:52:26)
+[2018.12.01-22.52.26:547][469]LogPlayLevel: Creating play world package: /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap
+[2018.12.01-22.52.26:557][469]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009748s)
+[2018.12.01-22.52.26:558][469]LogAIModule: Creating AISystem for world TutorialMap
+[2018.12.01-22.52.26:559][469]LogPlayLevel: PIE: World Init took: (0.001422s)
+[2018.12.01-22.52.26:559][469]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap to /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.011447s)
+[2018.12.01-22.52.26:624][469]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.01-22.52.26:667][469]LogInit: FAudioDevice initialized.
+[2018.12.01-22.52.26:707][469]LogLoad: Game class is 'GM_Tutorial_C'
+[2018.12.01-22.52.26:710][469]LogWorld: Bringing World /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2018.12.02-00.52.26
+[2018.12.01-22.52.26:710][469]LogWorld: Bringing up level for play took: 0.001851
+[2018.12.01-22.52.26:726][469]Cmd: r.TonemapperFilm 0
+[2018.12.01-22.52.26:726][469]r.TonemapperFilm = "0"
+[2018.12.01-22.52.26:727][469]PIE: Play in editor start time for /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap -0,557
+[2018.12.01-22.52.26:727][469]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2018.12.01-22.52.48:953][534]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2018.12.01-22.52.48:954][534]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.01-22.52.49:012][534]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.01-22.52.49:012][534]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2018.12.01-22.52.49:108][534]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.01-22.52.49:158][535]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2018.12.01-22.53.31:654][686]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.01-22.53.34:727][747]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/SpaceshipBattle/ParticleSystems/PS_Explosion.PS_Explosion
+[2018.12.01-22.53.49:364][919]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.01-22.53.49:379][919]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.12.01-22.54.01:447][ 10]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.01-22.54.20:594][117]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.01-22.54.59:101][380]LogCascade: Non-seeded module ParticleModuleColor
+[2018.12.01-22.54.59:129][380]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.01-22.55.02:335][447]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.01-22.55.03:925][481]LogCascade: Non-seeded module ParticleModuleColor
+[2018.12.01-22.55.03:951][481]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.01-22.55.12:751][560]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.01-22.55.26:318][697]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.01-22.55.29:227][761]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.01-22.55.40:390][825]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.01-22.55.50:178][964]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.01-22.55.50:382][966]LogSavePackage: Moving 'E:/UnrealProjects/SpaceshipBattleStarter/SpaceshipBattleStarter/Saved/PS_Explosion4AB6EB0C46EA543CE4901CBE3FA28FB1.tmp' to 'E:/UnrealProjects/SpaceshipBattleStarter/SpaceshipBattleStarter/Content/SpaceshipBattle/ParticleSystems/PS_Explosion.uasset'
+[2018.12.01-22.55.51:331][988]LogSlate: Window 'PS_Explosion' being destroyed
+[2018.12.01-22.55.51:384][988]LogCascade: Quitting Cascade. FXSystem=0x0000014B847CE0C0
+[2018.12.01-22.55.58:103][136]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/SpaceshipBattle/Blueprints/BP_Enemy.BP_Enemy
+[2018.12.01-22.58.50:602][ 50]BlueprintLog: New page: Compile BP_Enemy
+[2018.12.01-22.58.53:505][ 99]LogSavePackage: Moving 'E:/UnrealProjects/SpaceshipBattleStarter/SpaceshipBattleStarter/Saved/BP_EnemyC445E85F4AF0F63A8436838510491C79.tmp' to 'E:/UnrealProjects/SpaceshipBattleStarter/SpaceshipBattleStarter/Content/SpaceshipBattle/Blueprints/BP_Enemy.uasset'
+[2018.12.01-22.58.54:582][130]LogSlate: Window 'BP_Enemy' being destroyed
+[2018.12.01-22.58.56:798][198]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.01-22.58.56:815][198]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2018.12.01-22.58.56:815][198]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.01-22.58.56:815][198]PIE: New page: PIE session: TutorialMap (2 дек. 2018 г., 2:58:56)
+[2018.12.01-22.58.56:815][198]LogPlayLevel: Creating play world package: /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap
+[2018.12.01-22.58.56:825][198]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009884s)
+[2018.12.01-22.58.56:827][198]LogAIModule: Creating AISystem for world TutorialMap
+[2018.12.01-22.58.56:827][198]LogPlayLevel: PIE: World Init took: (0.001607s)
+[2018.12.01-22.58.56:827][198]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap to /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.011770s)
+[2018.12.01-22.58.56:886][198]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.01-22.58.56:925][198]LogInit: FAudioDevice initialized.
+[2018.12.01-22.58.56:967][198]LogLoad: Game class is 'GM_Tutorial_C'
+[2018.12.01-22.58.56:969][198]LogWorld: Bringing World /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2018.12.02-00.58.56
+[2018.12.01-22.58.56:970][198]LogWorld: Bringing up level for play took: 0.002040
+[2018.12.01-22.58.56:987][198]Cmd: r.TonemapperFilm 0
+[2018.12.01-22.58.56:987][198]r.TonemapperFilm = "0"
+[2018.12.01-22.58.56:987][198]PIE: Play in editor start time for /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap -0,296
+[2018.12.01-22.58.56:988][198]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2018.12.01-22.59.33:101][910]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2018.12.01-22.59.33:102][910]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.01-22.59.33:156][910]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.01-22.59.33:156][910]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2018.12.01-22.59.33:212][910]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.01-22.59.33:247][911]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2018.12.01-22.59.48:697][987]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.01-22.59.50:179][  1]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/SpaceshipBattle/Blueprints/BP_Player.BP_Player
+[2018.12.01-23.02.54:166][550]BlueprintLog: New page: Compile BP_Player
+[2018.12.01-23.02.56:489][590]LogSavePackage: Moving 'E:/UnrealProjects/SpaceshipBattleStarter/SpaceshipBattleStarter/Saved/BP_PlayerF4D7E7D84BB332DADBC3AC9EA36AF788.tmp' to 'E:/UnrealProjects/SpaceshipBattleStarter/SpaceshipBattleStarter/Content/SpaceshipBattle/Blueprints/BP_Player.uasset'
+[2018.12.01-23.03.14:882][995]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UParticleSystemComponent::SetColorParameter' [Элемент не найден.]
+[2018.12.01-23.03.30:674][442]LogSavePackage: Moving 'E:/UnrealProjects/SpaceshipBattleStarter/SpaceshipBattleStarter/Saved/BP_Player6CF95E3D43E3D9AD79EFDCAB36F2BB85.tmp' to 'E:/UnrealProjects/SpaceshipBattleStarter/SpaceshipBattleStarter/Content/SpaceshipBattle/Blueprints/BP_Player.uasset'
+[2018.12.01-23.03.31:285][459]BlueprintLog: New page: Compile BP_Player
+[2018.12.01-23.03.33:136][494]LogSlate: Window 'BP_Player' being destroyed
+[2018.12.01-23.03.35:644][579]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.01-23.03.35:660][579]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2018.12.01-23.03.35:661][579]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.01-23.03.35:661][579]PIE: New page: PIE session: TutorialMap (2 дек. 2018 г., 3:03:35)
+[2018.12.01-23.03.35:661][579]LogPlayLevel: Creating play world package: /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap
+[2018.12.01-23.03.35:671][579]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009573s)
+[2018.12.01-23.03.35:672][579]LogAIModule: Creating AISystem for world TutorialMap
+[2018.12.01-23.03.35:672][579]LogPlayLevel: PIE: World Init took: (0.001525s)
+[2018.12.01-23.03.35:672][579]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap to /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.011420s)
+[2018.12.01-23.03.35:745][579]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.01-23.03.35:782][579]LogInit: FAudioDevice initialized.
+[2018.12.01-23.03.35:823][579]LogLoad: Game class is 'GM_Tutorial_C'
+[2018.12.01-23.03.35:825][579]LogWorld: Bringing World /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2018.12.02-01.03.35
+[2018.12.01-23.03.35:826][579]LogWorld: Bringing up level for play took: 0.001642
+[2018.12.01-23.03.35:841][579]Cmd: r.TonemapperFilm 0
+[2018.12.01-23.03.35:842][579]r.TonemapperFilm = "0"
+[2018.12.01-23.03.35:842][579]PIE: Play in editor start time for /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap 0,559
+[2018.12.01-23.03.35:843][579]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2018.12.01-23.03.43:865][973]LogNet: Browse: /Game/SpaceshipBattle/Maps/TutorialMap
+[2018.12.01-23.03.43:884][973]LogLoad: LoadMap: /Game/SpaceshipBattle/Maps/TutorialMap
+[2018.12.01-23.03.43:943][973]LogPlayLevel: Creating play world package: /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap
+[2018.12.01-23.03.43:956][973]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012781s)
+[2018.12.01-23.03.43:957][973]LogAIModule: Creating AISystem for world TutorialMap
+[2018.12.01-23.03.43:958][973]LogPlayLevel: PIE: World Init took: (0.001586s)
+[2018.12.01-23.03.43:958][973]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap to /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.014756s)
+[2018.12.01-23.03.43:958][973]LogLoad: Game class is 'GM_Tutorial_C'
+[2018.12.01-23.03.43:961][973]LogWorld: Bringing World /Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2018.12.02-01.03.43
+[2018.12.01-23.03.43:961][973]LogWorld: Bringing up level for play took: 0.002206
+[2018.12.01-23.03.43:966][973]Cmd: r.TonemapperFilm 0
+[2018.12.01-23.03.43:966][973]r.TonemapperFilm = "0"
+[2018.12.01-23.03.43:966][973]LogLoad: Took 0.082143 seconds to LoadMap(/Game/SpaceshipBattle/Maps/UEDPIE_0_TutorialMap)
+[2018.12.01-23.03.44:473][997]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2018.12.01-23.03.44:474][997]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.01-23.03.44:524][997]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.01-23.03.44:524][997]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SpaceshipBattle/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2018.12.01-23.03.44:579][997]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.01-23.03.44:610][998]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2018.12.01-23.03.46:726][ 84]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.01-23.03.47:258][ 87]LogSavePackage: Moving 'E:/UnrealProjects/SpaceshipBattleStarter/SpaceshipBattleStarter/Saved/TutorialMap34DCF265488626B2E5701CBA5FBE64E7.tmp' to 'E:/UnrealProjects/SpaceshipBattleStarter/SpaceshipBattleStarter/Content/SpaceshipBattle/Maps/TutorialMap.umap'
+[2018.12.01-23.03.50:949][164]LogSlate: Window 'Save Content' being destroyed
+[2018.12.01-23.03.51:000][164]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/Tutorial/SubEditors/TutorialAssets/TutorialParticleSystem" FILE="../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialParticleSystem.uasset" SILENT=true
+[2018.12.01-23.03.51:038][164]LogSavePackage: Moving 'E:/UnrealProjects/SpaceshipBattleStarter/SpaceshipBattleStarter/Saved/TutorialParticleSystem71DE839A486C10FC1D91FBB28DE094C1.tmp' to '../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialParticleSystem.uasset'
+[2018.12.01-23.03.51:117][164]LogSlate: Window 'SpaceshipBattle - Unreal Editor' being destroyed
+[2018.12.01-23.03.51:393][165]Cmd: QUIT_EDITOR
+[2018.12.01-23.03.51:464][165]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.01-23.03.51:485][165]LogExit: Preparing to exit.
+[2018.12.01-23.03.52:077][165]LogExit: Editor shut down
+[2018.12.01-23.03.52:079][165]LogExit: Transaction tracking system shut down
+[2018.12.01-23.03.52:782][165]LogExit: Object subsystem successfully closed.
+[2018.12.01-23.03.52:813][165]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.12.01-23.03.52:830][165]LogD3D11RHI: Shutdown
+[2018.12.01-23.03.52:830][165]LogD3D11RHI: CleanupD3DDevice
+[2018.12.01-23.03.52:835][165]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.12.01-23.03.53:205][165]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (620)
+[2018.12.01-23.03.53:205][165]LogModuleManager: Shutting down and abandoning module Voice (618)
+[2018.12.01-23.03.53:206][165]LogModuleManager: Shutting down and abandoning module BlueprintGraph (616)
+[2018.12.01-23.03.53:206][165]LogModuleManager: Shutting down and abandoning module DistCurveEditor (614)
+[2018.12.01-23.03.53:207][165]LogModuleManager: Shutting down and abandoning module Cascade (612)
+[2018.12.01-23.03.53:207][165]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (610)
+[2018.12.01-23.03.53:207][165]LogModuleManager: Shutting down and abandoning module SceneOutliner (608)
+[2018.12.01-23.03.53:207][165]LogModuleManager: Shutting down and abandoning module AddContentDialog (606)
+[2018.12.01-23.03.53:208][165]LogModuleManager: Shutting down and abandoning module WidgetCarousel (605)
+[2018.12.01-23.03.53:208][165]LogModuleManager: Shutting down and abandoning module EditorWidgets (602)
+[2018.12.01-23.03.53:208][165]LogModuleManager: Shutting down and abandoning module CollectionManager (600)
+[2018.12.01-23.03.53:209][165]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2018.12.01-23.03.53:209][165]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2018.12.01-23.03.53:209][165]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2018.12.01-23.03.53:210][165]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2018.12.01-23.03.53:210][165]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2018.12.01-23.03.53:210][165]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2018.12.01-23.03.53:210][165]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2018.12.01-23.03.53:210][165]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2018.12.01-23.03.53:210][165]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2018.12.01-23.03.53:210][165]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2018.12.01-23.03.53:210][165]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2018.12.01-23.03.53:210][165]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2018.12.01-23.03.53:210][165]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2018.12.01-23.03.53:210][165]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2018.12.01-23.03.53:210][165]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2018.12.01-23.03.53:210][165]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2018.12.01-23.03.53:211][165]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2018.12.01-23.03.53:211][165]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2018.12.01-23.03.53:211][165]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2018.12.01-23.03.53:211][165]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2018.12.01-23.03.53:211][165]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2018.12.01-23.03.53:211][165]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2018.12.01-23.03.53:211][165]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2018.12.01-23.03.53:211][165]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2018.12.01-23.03.53:211][165]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2018.12.01-23.03.53:211][165]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2018.12.01-23.03.53:211][165]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2018.12.01-23.03.53:211][165]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2018.12.01-23.03.53:211][165]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2018.12.01-23.03.53:211][165]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2018.12.01-23.03.53:212][165]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2018.12.01-23.03.53:212][165]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2018.12.01-23.03.53:212][165]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2018.12.01-23.03.53:212][165]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2018.12.01-23.03.53:212][165]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2018.12.01-23.03.53:212][165]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2018.12.01-23.03.53:212][165]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2018.12.01-23.03.53:212][165]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2018.12.01-23.03.53:212][165]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2018.12.01-23.03.53:212][165]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2018.12.01-23.03.53:212][165]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2018.12.01-23.03.53:212][165]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2018.12.01-23.03.53:212][165]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2018.12.01-23.03.53:212][165]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2018.12.01-23.03.53:212][165]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2018.12.01-23.03.53:213][165]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2018.12.01-23.03.53:682][165]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2018.12.01-23.03.53:682][165]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2018.12.01-23.03.53:682][165]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2018.12.01-23.03.53:682][165]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2018.12.01-23.03.53:682][165]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2018.12.01-23.03.53:682][165]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2018.12.01-23.03.53:683][165]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2018.12.01-23.03.53:683][165]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2018.12.01-23.03.53:683][165]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2018.12.01-23.03.53:683][165]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2018.12.01-23.03.53:683][165]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2018.12.01-23.03.53:683][165]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2018.12.01-23.03.53:684][165]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2018.12.01-23.03.53:684][165]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2018.12.01-23.03.53:684][165]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2018.12.01-23.03.53:685][165]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2018.12.01-23.03.53:685][165]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2018.12.01-23.03.53:685][165]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2018.12.01-23.03.53:685][165]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2018.12.01-23.03.53:685][165]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2018.12.01-23.03.53:686][165]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2018.12.01-23.03.53:686][165]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2018.12.01-23.03.53:740][165]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2018.12.01-23.03.53:740][165]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2018.12.01-23.03.53:741][165]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2018.12.01-23.03.53:741][165]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2018.12.01-23.03.53:741][165]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2018.12.01-23.03.53:742][165]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2018.12.01-23.03.53:744][165]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2018.12.01-23.03.53:745][165]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2018.12.01-23.03.53:745][165]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2018.12.01-23.03.53:745][165]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2018.12.01-23.03.53:758][165]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2018.12.01-23.03.53:758][165]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2018.12.01-23.03.53:762][165]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2018.12.01-23.03.53:762][165]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2018.12.01-23.03.53:762][165]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2018.12.01-23.03.53:763][165]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2018.12.01-23.03.53:763][165]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2018.12.01-23.03.53:763][165]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2018.12.01-23.03.53:763][165]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2018.12.01-23.03.53:763][165]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2018.12.01-23.03.53:764][165]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2018.12.01-23.03.53:764][165]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2018.12.01-23.03.53:764][165]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2018.12.01-23.03.53:764][165]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2018.12.01-23.03.53:764][165]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2018.12.01-23.03.53:764][165]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2018.12.01-23.03.53:764][165]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2018.12.01-23.03.53:764][165]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2018.12.01-23.03.53:765][165]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2018.12.01-23.03.53:765][165]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2018.12.01-23.03.53:765][165]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2018.12.01-23.03.53:765][165]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2018.12.01-23.03.54:013][165]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2018.12.01-23.03.54:014][165]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2018.12.01-23.03.54:014][165]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2018.12.01-23.03.54:014][165]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2018.12.01-23.03.54:014][165]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2018.12.01-23.03.54:014][165]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2018.12.01-23.03.54:014][165]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2018.12.01-23.03.54:015][165]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2018.12.01-23.03.54:015][165]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2018.12.01-23.03.54:015][165]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2018.12.01-23.03.54:015][165]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2018.12.01-23.03.54:015][165]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2018.12.01-23.03.54:015][165]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2018.12.01-23.03.54:015][165]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2018.12.01-23.03.54:016][165]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2018.12.01-23.03.54:016][165]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2018.12.01-23.03.54:016][165]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2018.12.01-23.03.54:016][165]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2018.12.01-23.03.54:031][165]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2018.12.01-23.03.54:032][165]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2018.12.01-23.03.54:032][165]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2018.12.01-23.03.54:032][165]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2018.12.01-23.03.54:032][165]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2018.12.01-23.03.54:032][165]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2018.12.01-23.03.54:032][165]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2018.12.01-23.03.54:032][165]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2018.12.01-23.03.54:033][165]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2018.12.01-23.03.54:033][165]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2018.12.01-23.03.54:033][165]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2018.12.01-23.03.54:033][165]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2018.12.01-23.03.54:034][165]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2018.12.01-23.03.54:034][165]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2018.12.01-23.03.54:034][165]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2018.12.01-23.03.54:035][165]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2018.12.01-23.03.54:035][165]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2018.12.01-23.03.54:035][165]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2018.12.01-23.03.54:035][165]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2018.12.01-23.03.54:036][165]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2018.12.01-23.03.54:036][165]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2018.12.01-23.03.54:036][165]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2018.12.01-23.03.54:036][165]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2018.12.01-23.03.54:036][165]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2018.12.01-23.03.54:036][165]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2018.12.01-23.03.54:037][165]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2018.12.01-23.03.54:037][165]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2018.12.01-23.03.54:037][165]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2018.12.01-23.03.54:037][165]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2018.12.01-23.03.54:037][165]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2018.12.01-23.03.54:037][165]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2018.12.01-23.03.54:038][165]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2018.12.01-23.03.54:038][165]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2018.12.01-23.03.54:038][165]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2018.12.01-23.03.54:038][165]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2018.12.01-23.03.54:038][165]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2018.12.01-23.03.54:039][165]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2018.12.01-23.03.54:039][165]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2018.12.01-23.03.54:039][165]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2018.12.01-23.03.54:039][165]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2018.12.01-23.03.54:039][165]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2018.12.01-23.03.54:140][165]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2018.12.01-23.03.54:240][165]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2018.12.01-23.03.54:240][165]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2018.12.01-23.03.54:240][165]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2018.12.01-23.03.54:240][165]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2018.12.01-23.03.54:240][165]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2018.12.01-23.03.54:240][165]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2018.12.01-23.03.54:240][165]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2018.12.01-23.03.54:242][165]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2018.12.01-23.03.54:242][165]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2018.12.01-23.03.54:243][165]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2018.12.01-23.03.54:243][165]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2018.12.01-23.03.54:245][165]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2018.12.01-23.03.54:247][165]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2018.12.01-23.03.54:247][165]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2018.12.01-23.03.54:247][165]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2018.12.01-23.03.54:247][165]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2018.12.01-23.03.54:247][165]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2018.12.01-23.03.54:247][165]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2018.12.01-23.03.54:252][165]LogModuleManager: Shutting down and abandoning module Media (243)
+[2018.12.01-23.03.54:259][165]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2018.12.01-23.03.54:260][165]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2018.12.01-23.03.54:260][165]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2018.12.01-23.03.54:260][165]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2018.12.01-23.03.54:260][165]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2018.12.01-23.03.54:260][165]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2018.12.01-23.03.54:260][165]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2018.12.01-23.03.54:260][165]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2018.12.01-23.03.54:260][165]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2018.12.01-23.03.54:260][165]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2018.12.01-23.03.54:260][165]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2018.12.01-23.03.54:260][165]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2018.12.01-23.03.54:261][165]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2018.12.01-23.03.54:261][165]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2018.12.01-23.03.54:261][165]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2018.12.01-23.03.54:261][165]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2018.12.01-23.03.54:261][165]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2018.12.01-23.03.54:261][165]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2018.12.01-23.03.54:261][165]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2018.12.01-23.03.54:262][165]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2018.12.01-23.03.54:266][165]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2018.12.01-23.03.54:266][165]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2018.12.01-23.03.54:266][165]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2018.12.01-23.03.54:266][165]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2018.12.01-23.03.54:266][165]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2018.12.01-23.03.54:266][165]LogModuleManager: Shutting down and abandoning module Core (188)
+[2018.12.01-23.03.54:266][165]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2018.12.01-23.03.54:266][165]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2018.12.01-23.03.54:266][165]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2018.12.01-23.03.54:267][165]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2018.12.01-23.03.54:267][165]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2018.12.01-23.03.54:267][165]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2018.12.01-23.03.54:267][165]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2018.12.01-23.03.54:267][165]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2018.12.01-23.03.54:267][165]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2018.12.01-23.03.54:267][165]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2018.12.01-23.03.54:267][165]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2018.12.01-23.03.54:268][165]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2018.12.01-23.03.54:298][165]LogDerivedDataCache: Shutdown
+[2018.12.01-23.03.54:298][165]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2018.12.01-23.03.54:298][165]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2018.12.01-23.03.54:299][165]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2018.12.01-23.03.54:299][165]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2018.12.01-23.03.54:299][165]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2018.12.01-23.03.54:299][165]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2018.12.01-23.03.54:299][165]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2018.12.01-23.03.54:299][165]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2018.12.01-23.03.54:299][165]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2018.12.01-23.03.54:299][165]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2018.12.01-23.03.54:299][165]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2018.12.01-23.03.54:299][165]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2018.12.01-23.03.54:299][165]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2018.12.01-23.03.54:299][165]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2018.12.01-23.03.54:299][165]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2018.12.01-23.03.54:299][165]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2018.12.01-23.03.54:299][165]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2018.12.01-23.03.54:299][165]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2018.12.01-23.03.54:299][165]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2018.12.01-23.03.54:299][165]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2018.12.01-23.03.54:299][165]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2018.12.01-23.03.54:300][165]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2018.12.01-23.03.54:300][165]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2018.12.01-23.03.54:301][165]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2018.12.01-23.03.54:301][165]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2018.12.01-23.03.54:302][165]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2018.12.01-23.03.54:302][165]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2018.12.01-23.03.54:311][165]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2018.12.01-23.03.54:312][165]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2018.12.01-23.03.54:312][165]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2018.12.01-23.03.54:312][165]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2018.12.01-23.03.54:312][165]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2018.12.01-23.03.54:312][165]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2018.12.01-23.03.54:312][165]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2018.12.01-23.03.54:312][165]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2018.12.01-23.03.54:312][165]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2018.12.01-23.03.54:312][165]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2018.12.01-23.03.54:312][165]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2018.12.01-23.03.54:312][165]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2018.12.01-23.03.54:312][165]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2018.12.01-23.03.54:312][165]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2018.12.01-23.03.54:312][165]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2018.12.01-23.03.54:312][165]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2018.12.01-23.03.54:312][165]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2018.12.01-23.03.54:312][165]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2018.12.01-23.03.54:314][165]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2018.12.01-23.03.54:314][165]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2018.12.01-23.03.54:325][165]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2018.12.01-23.03.54:325][165]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.12.01-23.03.54:325][165]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B79751668-4B5D-1C7E-8724-47AF267E0D1E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=7705769c40b9857ea507178f52a4650a%7C1b908cdb28d44d49a54ef439a0eb8305%7C69541e32-79a3-4cb0-8371-cb326f343ce2&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.12.01-23.03.54:358][165]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2018.12.01-23.03.54:359][165]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2018.12.01-23.03.54:360][165]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2018.12.01-23.03.54:360][165]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2018.12.01-23.03.54:360][165]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2018.12.01-23.03.54:360][165]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2018.12.01-23.03.54:360][165]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2018.12.01-23.03.54:360][165]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2018.12.01-23.03.54:360][165]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2018.12.01-23.03.54:360][165]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2018.12.01-23.03.54:360][165]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.12.01-23.03.54:360][165]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2018.12.01-23.03.54:360][165]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.12.01-23.03.54:360][165]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.12.01-23.03.54:361][165]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.12.01-23.03.54:361][165]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.12.01-23.03.54:361][165]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.12.01-23.03.54:361][165]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.12.01-23.03.54:361][165]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.12.01-23.03.54:362][165]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.12.01-23.03.54:362][165]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.12.01-23.03.54:362][165]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.12.01-23.03.54:362][165]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.12.01-23.03.54:362][165]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.12.01-23.03.54:362][165]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.12.01-23.03.54:362][165]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.12.01-23.03.54:362][165]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.12.01-23.03.54:362][165]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.12.01-23.03.54:362][165]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.12.01-23.03.54:362][165]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.12.01-23.03.54:368][165]LogExit: Exiting.
+[2018.12.01-23.03.54:393][165]Log file closed, 12/02/18 01:03:54
